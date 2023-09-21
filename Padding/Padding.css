@@ -1,0 +1,27 @@
+.padding-1{
+    padding: 20px;/*This gives the interior space a space on four sides*/
+}
+
+.padding-1{
+    padding-left: 20px;/*This gives the inner space a space from the left*/
+}
+
+.padding-1{
+    padding-right: 20px;/*This gives the inner space a distance from the right*/
+}
+
+.padding-1{
+    padding-top: 20px;/*This gives the interior a space from above*/
+}
+
+.padding-1{
+    padding-bottom: 20px;/*This gives the interior a space from the bottom*/
+}
+
+.padding-1{
+    padding: 10px 20px 10px 20px;/*This gives the inner space a space from top, right, bottom and left respectively*/
+}
+
+.padding-1{
+    padding: 20px 80px ;/*This gives the interior space a 20px top and bottom spacing and an 80px left and right spacing*/
+}

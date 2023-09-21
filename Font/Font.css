@@ -1,0 +1,24 @@
+.Font-1{
+    font-family: sans-serif;/*This will change the color of the first letter of our paragraph*/
+}
+/*--------------------------------------------------*/
+
+@font-face {
+    font-family: PlayfairDisplay;/*Here we choose a name for the font*/
+    src: url("/font/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf");/*Here we enter the address of the font file*/
+}
+.Font-2{
+    font-family: "PlayfairDisplay";/*Here we enter the font we chose*/
+}
+
+.Font-3{
+    font-style: italic;/*This field defines the type of display of our text, here we have defined the type of display in italics*/
+}
+
+.Font-4{
+    font-variant: small-caps;/*This will convert all the words that are written in lower case to capital letters, but it will make the ones that are written in upper case one font bigger.*/
+}
+
+.Font-5{
+    font-weight:bold;/*This will make our text bold*/
+}

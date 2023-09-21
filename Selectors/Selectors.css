@@ -1,0 +1,22 @@
+h1,h2,h3{
+    color: #d000ff;/*We have selected 3 tags here*/
+}
+
+ul>li{
+    background-color: #33b03c;/*This will style the tags inside the ul background*/
+}
+
+p+.Selectors-1{
+    color: #a100ff;/*Here comes the H2 tags that immediately come from the P tag and give it style*/
+}
+*{
+    background-color: deepskyblue/*This will style all page tags*/
+}
+
+[title]{
+    color: #9e49bb;/*This will style all the tags that have a title*/
+}
+
+dev~p{
+    color: #651991;/*This will style all pi tags after dave*/
+}

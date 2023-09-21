@@ -1,0 +1,30 @@
+.Pseudo-Element-1::first-letter{
+    color: deepskyblue;/*This will change the color of the first letter of our paragraph*/
+}
+
+.Pseudo-Element-2::first-line{
+    color: deepskyblue;/*This will change the color of the first line of our paragraph*/
+}
+
+.Pseudo-Element-3::before{
+    content: url("/images/2542530.jpg");/*This will display the image before the text*/
+}
+
+.Pseudo-Element-4::after{
+    content: url("/images/2542530.jpg");/*This will show the photo after the text*/
+}
+
+.Pseudo-Element-5::selection{
+    background-color: deepskyblue;/*This will apply the style when we select the text*/
+}
+.Pseudo-Element-6:hover{
+    color: deepskyblue;/*This happens when the mouse is placed on H2, it changes the color of H2*/
+}
+
+.Pseudo-Element-7:checked{
+    box-shadow: 2px 2px  deepskyblue;/*This will apply the style when you click on it*/
+}
+
+ul>li:first-child{
+    color: deepskyblue;/*This will apply the style to our first item*/
+}

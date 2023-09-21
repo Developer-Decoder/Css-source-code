@@ -1,0 +1,36 @@
+
+.Shadow-1{
+   text-shadow: 2px 1px 4px dodgerblue;/*Our first value will shade our text horizontally, the second value will shade it vertically, and the third value will be used to fade the shadow, and this fade must be placed in the third item and in the fourth item to make it look like a shadow. Badim is used*/
+}
+
+.Shadow-2{
+    color: white;
+    text-shadow: 1px 0px dodgerblue,0px -1px dodgerblue,-1px 0px dodgerblue,0px 1px dodgerblue;
+}
+
+.box-shadow-1{
+    width: 600px;
+    height: 400px;
+    box-shadow: 10px 20px 60px dodgerblue;
+}
+
+.box-shadow-2{
+    width: 600px;
+    height: 400px;
+    background-color: lightgoldenrodyellow;
+    box-shadow:inset 10px 20px 60px dodgerblue;/*The inset element will insert the shadow into the set*/
+}
+
+
+
+/*----------------------------------------------------------------------------------------------------------------*/
+img{
+     margin: 50px;
+ }
+h1{
+    margin: 50px;
+}
+div{
+    margin: 50px;
+    display: inline-block;
+}

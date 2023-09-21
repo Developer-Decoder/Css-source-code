@@ -1,0 +1,11 @@
+.table-1,.th-1,.td-1{
+    border: 1px solid deepskyblue;/*This will draw a border for our table*/
+}
+
+.table-1{
+    border-collapse: collapse;/*It comes and turns two border lines into one line*/
+}
+
+.td-1{
+    vertical-align: top;/*This field specifies where our item should be placed*/
+}

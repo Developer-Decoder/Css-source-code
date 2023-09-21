@@ -1,0 +1,31 @@
+.Border-Radius-1{
+    width: 600px;
+    height:400px;
+    border-radius: 50px;/*This will give a curve to the corners of our photo, which we specify with percentage and pixels*/
+}
+
+.Border-Radius-2{
+    width: 600px;
+    height:400px;
+    border-top-left-radius: 50px;/*This will create a curve in the top left corner*/
+}
+
+.Border-Radius-3{
+    width: 600px;
+    height:400px;
+    border-top-right-radius: 50px;/*This will create a curve in the upper right corner*/
+}
+
+.Border-Radius-4{
+    width: 600px;
+    height:400px;
+    border-bottom-left-radius: 50px;/*This will create a curve in the lower left corner*/
+}
+
+.Border-Radius-5{
+    width: 600px;
+    height:400px;
+    border-bottom-right-radius: 50px;/*This will create a curve in the lower right corner*/
+}
+
+

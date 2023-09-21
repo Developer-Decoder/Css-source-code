@@ -1,0 +1,11 @@
+.List-1{
+    list-style-type: none;/*This will remove the dots behind the list*/
+}
+
+.List-2{
+    list-style-type: square;/*This will convert the dots behind the list into squares*/
+}
+
+.List-3{
+    list-style-type: circle;/*This will turn the dots behind the list into empty dots*/
+}

@@ -1,0 +1,7 @@
+#ID-1{
+    color: deepskyblue;/*To call the ID, we use # and the unique ID means that an ID can be defined for each tag. The ID can be defined. The ID should not start with a number and there should not be a space between the characters. sensitive*/
+}
+
+.Class-1{
+    color: red;/*We call the class with (.) In classes, two or more classes can be defined, and the rest of the applications are like IDs.*/
+}

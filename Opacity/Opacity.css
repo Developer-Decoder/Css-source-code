@@ -1,0 +1,5 @@
+.Opacity-1{
+    width: 600px;
+    height:400px;
+    opacity: 0.6;/*This is for the resolution of the photo. We set it from 0 to 1. The closer our value is to zero, the less resolution it is, and the closer it is to 1, the more resolution it is. This can also be set as a percentage.*/
+}

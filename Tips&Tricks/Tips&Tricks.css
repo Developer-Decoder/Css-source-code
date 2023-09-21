@@ -1,0 +1,13 @@
+div{
+    width: 600px;
+    height: 300px;
+
+}
+/*-----------------------------------------------------------------------------------*/
+.bg{
+    background-image: url("/images/2542530.jpg");
+   background-size: cover;
+    background-repeat:no-repeat ;
+    background-color: red;
+    background-blend-mode:darken ;
+}{}

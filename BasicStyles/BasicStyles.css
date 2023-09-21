@@ -1,0 +1,67 @@
+.BasicStyles-1{
+    color: red;/*The color of the first P tag makes us red*/
+}
+
+.BasicStyles-2{
+    font-size: 20px;/*font size changes our font size (changes the size of our second P tag to 20 pixels)*/
+}
+
+.BasicStyles-3{
+    background-color: red;/*Background-Color will make the foreground color red*/
+}
+
+.BasicStyles-4{
+    border: 5px solid red;/*This will draw a border around our tag*/
+}
+
+.BasicStyles-5{
+    width: 10px;/*This will specify a width of 10 pixels for our element*/
+}
+
+.BasicStyles-6{
+    max-width: 50px;/*It defines a range for our element and allows our elements to be larger than that range*/
+}
+
+.BasicStyles-7{
+    text-decoration: underline;/*It draws a line under our text*/
+}
+
+.BasicStyles-8{
+    text-decoration: overline;/*This will draw a line above our text*/
+}
+
+.BasicStyles-9{
+    text-decoration: line-through;/*It draws a line in the middle of our text*/
+}
+
+.BasicStyles-10{
+    letter-spacing: 20px;/*It draws a line in the middle of our text*/
+}
+
+.BasicStyles-11{
+    word-spacing: 20px;/*This will add 20px spacing between each word*/
+}
+
+.BasicStyles-12{
+    line-height: 50px;/*This will leave a space of 50 pixels between each line*/
+}
+
+.BasicStyles-13{
+    text-transform: capitalize;/*It capitalizes the first letter of each word*/
+}
+
+.BasicStyles-14{
+    text-transform: lowercase;/*It lowers all words*/
+}
+
+.BasicStyles-15{
+    text-transform:uppercase;/*It capitalizes all words*/
+}
+
+.BasicStyles-16{
+    box-sizing: border-box;/*This does not allow our text to be larger than the size we set*/
+}
+
+.BasicStyles-17{
+    text-align: center;/*This will put us in the middle of our text*/
+}

@@ -1,0 +1,26 @@
+.Link-1{
+    text-decoration: none;/*This will remove the line below the link*/
+}
+
+.Link-2:link{
+    color: #0dcaf0;/*This will change its color to blue when the user clicks the method for the first time*/
+}
+
+.Link-3:visited{
+    color: #0a3622;/*It changes its color after the user clicks*/
+}
+
+.Link-4:hover{
+    color: red;/*It comes when the mouse is placed on the link, it changes its color until the mouse is on the link*/
+}
+
+.Link-5:active{
+    color: hotpink;/*It comes only the moment the link is clicked, its color changes*/
+}
+
+/*------------------------------------------------------------------*/
+
+
+body{
+    word-spacing: 20px;
+}

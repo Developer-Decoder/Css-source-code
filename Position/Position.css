@@ -1,0 +1,36 @@
+div{
+    width: 300px;
+    height: 300px;
+    display:inline-block ;
+}
+/*--------------------------------------------------------*/
+.Position-1{
+    background-color: deepskyblue;
+    position: static;/*This is the default position*/
+}
+
+.Position-2{
+    background-color: #e600ff;
+    position: relative;/*Here we can define the values of bottom and top, left and right, this ratio changes by itself*/
+    top: 20px;
+    right: 300px;
+}
+
+.Position-3{
+    background-color: #2bff00;
+    position: absolute;/*Here, the items change relative to other items if they have a relative position, and if they don't, they change relative to the screen, and it receives the top, bottom, right, and left items.*/
+    top: 20px;
+    left: 1000px;
+}
+
+.Position-4{
+    background-color: #ffe100;
+    position: fixed;/*When you define this position for an item, when the page is scrolled, this item stays on the page*/
+    top: 40px;
+    left: 300px;
+}
+
+.Position-5{
+    background-color: #ff0037;
+    position: sticky;/*This position is similar to the static position, but when the page is scrolled, it changes to the fixed position when it reaches the top of the page.*/
+}

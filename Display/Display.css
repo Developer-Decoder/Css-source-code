@@ -1,0 +1,14 @@
+.Display-1{
+    display: inline;/*This comes and changes the display type. Previously, the P block tag occupied all the space, but now it is inline and only occupies its own size.*/
+}
+
+.Display-2{
+    display: block;/*This comes and changes the display type. Previously, the span tag was inline, only occupying its own size, but now it is blocked and occupies all the space.*/
+}
+
+.Display-3{
+    width: 200px ;
+    height: 200px;
+    background-color: #0f5132;
+    display: inline;/*This will change the type of display. Previously, the Dave Block tag was occupying all the space, and in order to not be able to give the desired size, we have to convert it to Inlight Block.*/
+}

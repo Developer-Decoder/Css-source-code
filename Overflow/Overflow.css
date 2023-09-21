@@ -1,0 +1,16 @@
+
+.Overflow-1{
+    width: 300px;
+    height: 200px;
+    overflow:hidden ;/*It hides the rest of the text that is entered from the box as if it has been deleted*/
+}
+
+.Overflow-2{
+    width: 300px;
+    overflow: scroll;/*This mod adds a scroll bar and we can see the rest of the content with scroll*/
+}
+
+.Overflow-3{
+    width: 300px;
+    overflow-x: auto;
+}

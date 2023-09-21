@@ -1,0 +1,12 @@
+
+.Float-1{
+    float: right;/*This will place our elements on the right side and place the rest of the elements next to it*/
+}
+
+.Float-2{
+    float: left;/*This will place our elements on the left side and place the rest of the elements next to it*/
+}
+
+.Float-3{
+    float: none;/*This takes us to the default mode*/
+}
